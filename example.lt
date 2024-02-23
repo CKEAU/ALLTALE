@@ -1,0 +1,4 @@
+#This is a lt file
+#...
+opt("123")
+opt(keyin("sth"))
